@@ -1,0 +1,10 @@
+{
+  "name": "typescript-incremental-no-emit",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "typescript": "3.4.0-dev.20190330"
+  }
+}
